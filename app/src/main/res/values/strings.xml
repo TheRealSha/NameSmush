@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NameSmush</string>
+    <string name="button_name">Smush!</string>
+
+    <string name="q1_label">Your Name</string>
+    <string name="q2_label">Other  Name</string>
+    <string name="ft_label">Together you are:\n</string>
+
+    <string name="name_hint">Enter a name here!</string>
+
+</resources>
